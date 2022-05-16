@@ -5,7 +5,7 @@
 ## What is this?
 **KH2Status** is a little tool mainly developed for randomizer runs.  
 You just have to run the file while Kingdom Hearts II is active and thats it!  
-It displays your the following values:  
+It displays the following values:  
 
  - Current Level
  - EXP to next Level
